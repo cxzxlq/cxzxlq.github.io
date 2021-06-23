@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>我的第一篇文章</title>
+    <url>/2021/06/15/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+    <content><![CDATA[<h1 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World"></a>Hello World</h1><p>这是我的第一篇文章</p>
+<h2 id="1-更新Hexo博客的基本操作"><a href="#1-更新Hexo博客的基本操作" class="headerlink" title="1. 更新Hexo博客的基本操作"></a>1. 更新Hexo博客的基本操作</h2><ul>
+<li>在git中输入下面的代码</li>
+</ul>
+<figure class="highlight awk"><table><tr><td class="code"><pre><span class="line">$ hexo clean <span class="regexp">//</span> 清除缓存</span><br><span class="line">$ hexo g <span class="regexp">//</span> generate产生，即生成静态文章</span><br><span class="line">$ hexo d <span class="regexp">//</span> deploy部署</span><br></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>学习类</category>
+      </categories>
+      <tags>
+        <tag>博客搭建</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>怎么使用Hexo搭建个人博客?</title>
+    <url>/2021/06/23/%E6%80%8E%E4%B9%88%E4%BD%BF%E7%94%A8Hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%EF%BC%9F/</url>
+    <content><![CDATA[<h1 id="为什么要使用Hexo搭建个人博客？"><a href="#为什么要使用Hexo搭建个人博客？" class="headerlink" title="为什么要使用Hexo搭建个人博客？"></a>为什么要使用Hexo搭建个人博客？</h1><p>​    对于搭建博客的想法，很早之前就有了，只是模模糊糊的有一个大致想法——觉得这样挺酷的，</p>
+<h1 id="怎么搭建个人静态博客？"><a href="#怎么搭建个人静态博客？" class="headerlink" title="怎么搭建个人静态博客？"></a>怎么搭建个人静态博客？</h1>]]></content>
+      <categories>
+        <category>学习类</category>
+      </categories>
+      <tags>
+        <tag>博客搭建</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>类与对象</title>
     <url>/2021/06/23/%E7%B1%BB%E4%B8%8E%E5%AF%B9%E8%B1%A1/</url>
     <content><![CDATA[<h1 id="一、面向对象"><a href="#一、面向对象" class="headerlink" title="一、面向对象"></a>一、面向对象</h1><ul>
@@ -50,39 +79,10 @@
 <p>依赖关系：A类方法的参数是B类声明的对象</p>
 ]]></content>
       <categories>
-        <category>学习</category>
+        <category>学习类</category>
       </categories>
       <tags>
         <tag>Java</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>怎么使用Hexo搭建个人博客?</title>
-    <url>/2021/06/23/%E6%80%8E%E4%B9%88%E4%BD%BF%E7%94%A8Hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%EF%BC%9F/</url>
-    <content><![CDATA[<h1 id="为什么要使用Hexo搭建个人博客？"><a href="#为什么要使用Hexo搭建个人博客？" class="headerlink" title="为什么要使用Hexo搭建个人博客？"></a>为什么要使用Hexo搭建个人博客？</h1><p>​    对于搭建博客的想法，很早之前就有了，只是模模糊糊的有一个大致想法——觉得这样挺酷的，</p>
-<h1 id="怎么搭建个人静态博客？"><a href="#怎么搭建个人静态博客？" class="headerlink" title="怎么搭建个人静态博客？"></a>怎么搭建个人静态博客？</h1>]]></content>
-      <categories>
-        <category>学习类</category>
-      </categories>
-      <tags>
-        <tag>搭建博客</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>我的第一篇文章</title>
-    <url>/2021/06/15/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
-    <content><![CDATA[<h1 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World"></a>Hello World</h1><p>这是我的第一篇文章</p>
-<h2 id="1-更新Hexo博客的基本操作"><a href="#1-更新Hexo博客的基本操作" class="headerlink" title="1. 更新Hexo博客的基本操作"></a>1. 更新Hexo博客的基本操作</h2><ul>
-<li>在git中输入下面的代码</li>
-</ul>
-<figure class="highlight awk"><table><tr><td class="code"><pre><span class="line">$ hexo clean <span class="regexp">//</span> 清除缓存</span><br><span class="line">$ hexo g <span class="regexp">//</span> generate产生，即生成静态文章</span><br><span class="line">$ hexo d <span class="regexp">//</span> deploy部署</span><br></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>学习类</category>
-      </categories>
-      <tags>
-        <tag>博客搭建</tag>
       </tags>
   </entry>
 </search>
