@@ -3,8 +3,11 @@
   <entry>
     <title>我的第一篇文章</title>
     <url>/2021/06/15/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
-    <content><![CDATA[<h1 id="我的第一篇文章"><a href="#我的第一篇文章" class="headerlink" title="我的第一篇文章"></a>我的第一篇文章</h1><p>我的博客终于建好了，这是我的第一篇文章</p>
-<h2 id="更新Hexo博客的基本操作"><a href="#更新Hexo博客的基本操作" class="headerlink" title="更新Hexo博客的基本操作"></a>更新Hexo博客的基本操作</h2><figure class="highlight gams"><table><tr><td class="code"><pre><span class="line"><span class="symbol">$</span> hexo clean <span class="comment">//清除缓存</span></span><br><span class="line"><span class="symbol">$</span> hexo g</span><br><span class="line"><span class="symbol">$</span> hexo d</span><br></pre></td></tr></table></figure>
+    <content><![CDATA[<h1 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World"></a>Hello World</h1><p>这是我的第一篇文章</p>
+<h2 id="1-更新Hexo博客的基本操作"><a href="#1-更新Hexo博客的基本操作" class="headerlink" title="1. 更新Hexo博客的基本操作"></a>1. 更新Hexo博客的基本操作</h2><ul>
+<li>在git中输入下面的代码</li>
+</ul>
+<figure class="highlight awk"><table><tr><td class="code"><pre><span class="line">$ hexo clean <span class="regexp">//</span>清除缓存</span><br><span class="line">$ hexo g <span class="regexp">//g</span>enerate产生，即生成静态文章</span><br><span class="line">$ hexo d <span class="regexp">//</span>deploy部署</span><br></pre></td></tr></table></figure>
 
 ]]></content>
       <categories>
