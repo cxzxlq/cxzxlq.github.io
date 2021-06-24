@@ -1,32 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>我的第一篇文章</title>
-    <url>/2021/06/15/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
-    <content><![CDATA[<h1 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World"></a>Hello World</h1><p>这是我的第一篇文章</p>
-<h2 id="1-更新Hexo博客的基本操作"><a href="#1-更新Hexo博客的基本操作" class="headerlink" title="1. 更新Hexo博客的基本操作"></a>1. 更新Hexo博客的基本操作</h2><ul>
-<li>在git中输入下面的代码</li>
-</ul>
-<figure class="highlight awk"><table><tr><td class="code"><pre><span class="line">$ hexo clean <span class="regexp">//</span> 清除缓存</span><br><span class="line">$ hexo g <span class="regexp">//</span> generate产生，即生成静态文章</span><br><span class="line">$ hexo d <span class="regexp">//</span> deploy部署</span><br></pre></td></tr></table></figure>
-
+    <title>医院看病流程</title>
+    <url>/2021/06/24/%E5%8C%BB%E9%99%A2%E7%9A%84%E7%9C%8B%E7%97%85%E6%B5%81%E7%A8%8B/</url>
+    <content><![CDATA[<h1 id="序"><a href="#序" class="headerlink" title="序"></a>序</h1><p>​    因为很少去医院，偶然一次生病去医院，却发现原本熟悉的医院看病流程早已淡忘，导致很快就能结束的看病流程却浪费了大量的时间，甚至会拖延治疗。因此想总结一篇看病的流程，每次看病前都回顾一遍来节约时间，便于提早接受治疗，省下不必要的麻烦。</p>
+<h1 id="一、看病前的准备"><a href="#一、看病前的准备" class="headerlink" title="一、看病前的准备"></a>一、看病前的准备</h1><p>​    <strong>身份证</strong>，病历本，手机（微信支付节约时间），口罩（疫情期间必须）</p>
+<p>​    在大型的医院门口的咨询处可以简单咨询一下自己的病情需要挂哪一个科室的号，如果没有就问问挂号处的人。</p>
+<h1 id="二、挂号——来医院的第一件事"><a href="#二、挂号——来医院的第一件事" class="headerlink" title="二、挂号——来医院的第一件事"></a>二、挂号——来医院的第一件事</h1><p>​    带着身份证和病历本去挂自己刚刚询问的科室的号（此过程如果没有病历本，需要缴1.5左右的病历本费，其余一般不用缴费）</p>
+<blockquote>
+<p>​    <em>特殊情况：</em>在<strong>江门市人民医院</strong>是直接去所需科室旁挂号，我以前接触的一般是直接在大厅挂号，不同医院不同做法。</p>
+</blockquote>
+<h1 id="三、-候诊"><a href="#三、-候诊" class="headerlink" title="三、 候诊"></a>三、 候诊</h1><p>​    来到挂号的科室地址排队等待就诊。如果找不到地址就问人。</p>
+<p>​    如果病情较严重，可以和导医说明情况询问是否能优先就诊，或直接去和医生沟通和交流。</p>
+<h1 id="四、就诊"><a href="#四、就诊" class="headerlink" title="四、就诊"></a>四、就诊</h1><p>​    尽可能的向医生描述自己的情况。</p>
+<p>​    结束就诊后，医生会指引你接下来要去做的检查和化验，要认真听。如果指引很多，请记笔记。</p>
+<h1 id="五、缴费"><a href="#五、缴费" class="headerlink" title="五、缴费"></a>五、缴费</h1><p>​    <strong>就诊结束后立马去缴费，得到缴费单!!!</strong></p>
+<p>​    我以前接触的医院是科室医生给缴费单（上面有你要做的检查项目）让你自己去大厅缴费。在江门市人民医院是在微信公众号缴费，当然也可以去大厅缴费处缴费，但是我没在这里试过。</p>
+<h1 id="六、检查、化验"><a href="#六、检查、化验" class="headerlink" title="六、检查、化验"></a>六、检查、化验</h1><p>​    缴完费，拿着缴费单，来到医院检查、化验的相关地址检查和化验，然后等待报告。如果找不到地址就问人。</p>
+<blockquote>
+<p>​    <em>特殊情况：</em>在<strong>江门市人民医院</strong>是根据需求去对应的科室旁的机器打印需要的条形码（这个条形码和缴费单类似，就是告诉医生你要做什么检查项目用的），比如验血需要的条形码，在验血的科室旁边会有可以打印条形码的机器。</p>
+</blockquote>
+<h1 id="七、治疗"><a href="#七、治疗" class="headerlink" title="七、治疗"></a>七、治疗</h1><p>​    拿到报告结果后，返回科室接受医生诊断和处理。</p>
+<p>​    接下来去买药或付费其他医疗项目，完成治疗。</p>
 ]]></content>
       <categories>
-        <category>学习类</category>
+        <category>生活类</category>
       </categories>
       <tags>
-        <tag>博客搭建</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>怎么使用Hexo搭建个人博客?</title>
-    <url>/2021/06/23/%E6%80%8E%E4%B9%88%E4%BD%BF%E7%94%A8Hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%EF%BC%9F/</url>
-    <content><![CDATA[<h1 id="为什么要使用Hexo搭建个人博客？"><a href="#为什么要使用Hexo搭建个人博客？" class="headerlink" title="为什么要使用Hexo搭建个人博客？"></a>为什么要使用Hexo搭建个人博客？</h1><p>​    对于搭建博客的想法，很早之前就有了，只是模模糊糊的有一个大致想法——觉得这样挺酷的，</p>
-<h1 id="怎么搭建个人静态博客？"><a href="#怎么搭建个人静态博客？" class="headerlink" title="怎么搭建个人静态博客？"></a>怎么搭建个人静态博客？</h1>]]></content>
-      <categories>
-        <category>学习类</category>
-      </categories>
-      <tags>
-        <tag>博客搭建</tag>
+        <tag>看病</tag>
       </tags>
   </entry>
   <entry>
@@ -83,6 +84,35 @@
       </categories>
       <tags>
         <tag>Java</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>怎么使用Hexo搭建个人博客?</title>
+    <url>/2021/06/23/%E6%80%8E%E4%B9%88%E4%BD%BF%E7%94%A8Hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%EF%BC%9F/</url>
+    <content><![CDATA[<h1 id="为什么要使用Hexo搭建个人博客？"><a href="#为什么要使用Hexo搭建个人博客？" class="headerlink" title="为什么要使用Hexo搭建个人博客？"></a>为什么要使用Hexo搭建个人博客？</h1><p>​    对于搭建博客的想法，很早之前就有了，只是模模糊糊的有一个大致想法——觉得这样挺酷的，</p>
+<h1 id="怎么搭建个人静态博客？"><a href="#怎么搭建个人静态博客？" class="headerlink" title="怎么搭建个人静态博客？"></a>怎么搭建个人静态博客？</h1>]]></content>
+      <categories>
+        <category>学习类</category>
+      </categories>
+      <tags>
+        <tag>博客搭建</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>我的第一篇文章</title>
+    <url>/2021/06/15/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+    <content><![CDATA[<h1 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World"></a>Hello World</h1><p>这是我的第一篇文章</p>
+<h2 id="1-更新Hexo博客的基本操作"><a href="#1-更新Hexo博客的基本操作" class="headerlink" title="1. 更新Hexo博客的基本操作"></a>1. 更新Hexo博客的基本操作</h2><ul>
+<li>在git中输入下面的代码</li>
+</ul>
+<figure class="highlight awk"><table><tr><td class="code"><pre><span class="line">$ hexo clean <span class="regexp">//</span> 清除缓存</span><br><span class="line">$ hexo g <span class="regexp">//</span> generate产生，即生成静态文章</span><br><span class="line">$ hexo d <span class="regexp">//</span> deploy部署</span><br></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>学习类</category>
+      </categories>
+      <tags>
+        <tag>博客搭建</tag>
       </tags>
   </entry>
 </search>
